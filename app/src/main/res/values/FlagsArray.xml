@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="Flags_Array">
+        <item>@drawable/ic_flag_of_russia</item>
+        <item>@drawable/ic_flag_of_the_united_states</item>
+    </integer-array>
+</resources>
